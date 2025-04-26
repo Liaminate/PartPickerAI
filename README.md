@@ -52,4 +52,9 @@ Simply run the program and enter your query when prompted. Example queries:
 - "alternator for a 1990 mazda miata"
 - "2015 toyota camry transmission"
 
-The system will interpret your query, search available inventory, and return the top 3 matching vehicles with match scores.
+The system will interpret your query, search available inventory, and return the top 3 matching vehicles with match scores. Example response:
+
+🏆 Top 3 Recommended Cars:
+1. 2009 Honda Civic (Black) - Yard Date: 04/11/2025 - Match Score: 90%
+2. 2006 Honda Civic (Black) - Yard Date: 04/24/2025 - Match Score: 85%
+3. 2012 Honda Civic (Black) - Yard Date: 03/25/2025 - Match Score: 80%
